@@ -1,4 +1,4 @@
-Üniversite Bölüm İşleri Yönetim Sistemi
+**Üniversite Bölüm İşleri Yönetim Sistemi**
 
 ASP.NET Core Web API ve React ile geliştirilmiş, üniversite bölümlerinin akademik işlemlerini kolaylaştıran modern bir yönetim sistemi.
 

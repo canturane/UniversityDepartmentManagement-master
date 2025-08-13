@@ -102,4 +102,4 @@ Sistem, akademik personelin iş yükünü azaltarak **verimliliği artırmayı**
 
 ![Ekran görüntüsü 2025-05-24 200056](https://github.com/user-attachments/assets/38e65a9d-b733-4cde-bb06-95b121378eb8)
 
-![image](https://github.com/user-attachments/assets/cfc3fb77-34f7-451d-9eac-772d64804334)
+
